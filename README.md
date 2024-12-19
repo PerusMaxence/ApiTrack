@@ -7,14 +7,6 @@ APITRACK est une application web conçue pour moderniser et simplifier la gestio
 
 ---
 
-### Public visé
-L'application est destinée aux apiculteurs souhaitant :
-- Centraliser les données de leurs récoltes.
-- Comparer les performances de différents ruchers ou types de miel.
-- Optimiser la gestion des ruches pour maximiser la production.
-
----
-
 ### Fonctionnalités principales
 - **Gestion des récoltes** : Suivi des récoltes par type de miel, quantité, localisation et date.
 - **Suivi des ruchers** : Visualisation des ruchers permanents et temporaires.
